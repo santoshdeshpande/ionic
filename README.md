@@ -10,7 +10,7 @@ Ionic is the open source HTML5 Mobile Framework for building amazing, cross-plat
 
 ![Weather Demo](http://ionicframework.com/img/weather1x.png)
 
-Small edit to test travis
+Small edit for Travis.
 
 We built Ionic because we wanted a framework that focused on building hybrid native apps, rather than mobile websites. We wanted this framework to be obsessive about great design and performance. A framework that left the past behind and focused on the future where mobile devices could make HTML5 feel native.
 
